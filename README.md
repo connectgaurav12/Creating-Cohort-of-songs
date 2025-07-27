@@ -1,0 +1,1 @@
+As a data scientist, I have performed exploratory data analysis and cluster analysis to create cohorts of songs. The goal is to better understand the various factors that create a cohort of songs.<img width="471" height="64" alt="image" src="https://github.com/user-attachments/assets/bfeebba1-e01b-4174-9b79-0f927d04c4e7" />
